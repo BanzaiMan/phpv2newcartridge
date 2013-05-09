@@ -1,5 +1,5 @@
 Name: phpx
-Cartridge-Short-Name: PHP
+Cartridge-Short-Name: PHPX
 Display-Name: PHP 5.3
 Description: "For Testing Only!! PHP is a general-purpose server-side scripting language originally designed for Web development to produce dynamic Web pages. Popular development frameworks include: CakePHP, Zend, Symfony, and Code Igniter."
 Version: '5.3'
@@ -90,4 +90,4 @@ Endpoints:
         Backend:       ""
         Options:       { health: true }
 Install-Build-Required: false
-Source-Url: https://github.com/xltian/phpv2newcartridge.git
+Source-Url: https://github.com/BanzaiMan/phpv2newcartridge.git
